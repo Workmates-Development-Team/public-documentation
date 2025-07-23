@@ -55,7 +55,7 @@ Used to generate a new API key for your company.
 
 ```json
 {
-  "api_key": "<API_KEY>"
+  "company_id": "<Company_ID>"
 }
 ```
 
@@ -63,8 +63,8 @@ Used to generate a new API key for your company.
 
 ```json
 {
-  "company_id": "uuid",
-  "api_key": "<API_KEY>"
+  "api_key": "<API_KEY>",
+  "company_id": "uuid"
 }
 ```
 
